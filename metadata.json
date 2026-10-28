@@ -1,0 +1,6 @@
+{
+  "name": "QualiTask - Gestión de Tareas",
+  "description": "Organiza proyectos, tareas y equipos con QualiTask.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
